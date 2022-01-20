@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+   
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 0%;
+    border: 2px solid black;
+    flex-direction: row;
+    padding: 0 1%;
+    width: 80%;
+    margin: 2% auto;
+       
+    
+}
+
+
+figure {
+    width: 25%;
+    line-height: 0; 
+    margin: 4%; 
+    
+}
+
+img {
+    width: 100%;
+       
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
